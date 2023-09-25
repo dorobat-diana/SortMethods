@@ -4,7 +4,7 @@
 
 2. User Interaction: The program offers an interactive user interface that allows the user to choose a sorting algorithm of interest. It provides options to learn about the algorithm and run it on sample data, making it a valuable learning resource.
 
-3. Algorithm Implementation: The code includes actual implementations of sorting algorithms such as Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, and Bogo Sort. This can help users understand the code logic behind each algorithm.
+3. Algorithm Implementation: The code includes actual implementations of sorting algorithms such as Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort,Heap Sort,Shell Sort, Tree Sort, Bucket Sort, Radix Sort, Counting Sort, Cocktail Sort and Bogo Sort. This can help users understand the code logic behind each algorithm.
 
 4. Informational Content: The project includes textual content explaining each sorting algorithm's concept, complexities, and use cases. It provides an overview of other sorting algorithms, expanding the user's knowledge of sorting techniques.
 
